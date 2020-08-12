@@ -1,6 +1,6 @@
 {
   "name": "ng-busy",
-  "version": "9.0.0",
+  "version": "10.0.0",
   "description": "Show busy/loading indicators on any promise or subscription",
   "author": "victos",
   "license": "MIT",
@@ -28,16 +28,17 @@
     "ng-busy",
     "waiting",
     "angular5",
-    "angular6"
+    "angular6",
+    "angular10"
   ],
   "engines": {
     "node": ">= 10.0.0",
     "npm": ">= 5.6.0"
   },
   "peerDependencies": {
-    "@angular/common": "^9.0.0",
-    "@angular/core": "^9.0.0",
-    "@angular/animations": "^9.0.0",
+    "@angular/common": "^10.0.0",
+    "@angular/core": "^10.0.0",
+    "@angular/animations": "^10.0.0",
     "rxjs": "^6.0.0"
   }
 }
